@@ -1,0 +1,32 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "core/jquery.js", "core/bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "img/128.png"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/content.css"],
+      "js": [ "core/jquery.js", "core/jquery-ui-1.10.3.custom.min.js", "core/jszip.min.js", "core/FileSaver.js", "core/jszip_utils.js", "core/globalUtils.js", "core/cs.js" ],
+      "matches": [ "*://*.instagram.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "img/128.png",
+      "48": "img/48.png",
+      "16": "img/16.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "40",
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "tabs", "downloads", "\u003Call_urls>", "management", "cookies", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2018.07.26.2",
+   "web_accessible_resources": ["css/*", "img/*"]
+}

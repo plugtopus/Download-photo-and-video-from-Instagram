@@ -1,0 +1,170 @@
+{
+   "are_you_sure_delete": {
+      "message": "Are you sure you want to delete this post?"
+   },
+   "broadcast_finished": {
+      "message": "This live video has ended"
+   },
+   "btn_cancel": {
+      "message": "Cancel"
+   },
+   "btn_continue": {
+      "message": "Continue"
+   },
+   "btn_enough": {
+      "message": "Stop & Save"
+   },
+   "by_default_100": {
+      "message": "by default 100%"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "comments_is_muted": {
+      "message": "Comments feature is muted"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "delete_error": {
+      "message": "Delete Error"
+   },
+   "disconnect_notification": {
+      "message": "Refresh this page to continue using Downloader for Instagram™"
+   },
+   "do_not_show_again": {
+      "message": "Don't show this again"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_all": {
+      "message": "Download all"
+   },
+   "download_more_100_warning": {
+      "message": "Downloading big amount of files may take much time and can falter"
+   },
+   "download_zip": {
+      "message": "Downloading files from Instagram™ server"
+   },
+   "error403_possible_reasons": {
+      "message": "Possible reasons"
+   },
+   "error403_reason_1": {
+      "message": "Instagram server says \"Unathorized\". Try to relogin to your instagram account."
+   },
+   "error403_reason_2": {
+      "message": "Conflict with another extension. Turn off other extensions and try again."
+   },
+   "errorZip": {
+      "message": "Error when getting Zip file. Most likely you have tried to download too many files within your Internet connection speed or computer power. Try to reduce number of files to make it work or try again in few seconds. Sometimes Instagram™ servers get stuck on a lot of requests."
+   },
+   "error_dl_msg": {
+      "message": "Download error"
+   },
+   "error_network": {
+      "message": "Error Network"
+   },
+   "error_reason_xz": {
+      "message": "Try again"
+   },
+   "desc": {
+      "message": "Download photos and videos from Instagram™ quickly and easily! Supported mass download in one click!"
+   },
+   "name": {
+      "message": "Download photo and video from Instagram™"
+   },
+   "files_found_on_page": {
+      "message": "Posts found on page"
+   },
+   "for_previous_days": {
+      "message": "For previous days"
+   },
+   "from": {
+      "message": "from"
+   },
+   "go_to_instagram": {
+      "message": "Go to Instagram.com"
+   },
+   "hide_live_comments": {
+      "message": "Hide comments"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "loading": {
+      "message": "Loading"
+   },
+   "next": {
+      "message": "Next"
+   },
+   "no": {
+      "message": "No"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "only_photo": {
+      "message": "Only photo"
+   },
+   "only_video": {
+      "message": "Only video"
+   },
+   "open_new_tab_for_surfing": {
+      "message": "Open Instagram.com in new tab to continue surfing."
+   },
+   "parallel_all_download_denied": {
+      "message": "Please wait until your current downloading in another tab is finished."
+   },
+   "pleaseWait": {
+      "message": "Please wait"
+   },
+   "prepare_zip_links": {
+      "message": "Preparing links"
+   },
+   "reloadPage": {
+      "message": "Please refresh page to activate Downloader for Instagram™"
+   },
+   "reloadPageLong": {
+      "message": "Refresh Instagram™ page after installation"
+   },
+   "reloadPageShort": {
+      "message": "Refresh page"
+   },
+   "remind_later": {
+      "message": "Remind me later"
+   },
+   "report_a_problem": {
+      "message": "Leave feedback"
+   },
+   "retry_requests": {
+      "message": "Retrying files"
+   },
+   "scroll_page_for_download_more": {
+      "message": "Scroll down the page to download more files"
+   },
+   "send": {
+      "message": "Send"
+   },
+   "set_range": {
+      "message": "Set the range"
+   },
+   "show_live_comments": {
+      "message": "Show comments"
+   },
+   "story_is_not_available": {
+      "message": "Story is no longer available"
+   },
+   "tab_is_not_complete": {
+      "message": "Current tab loading is not complete"
+   },
+   "to": {
+      "message": "to"
+   },
+   "waiting_response_for_virtual_scroll": {
+      "message": "Don't Panic! We're waiting for respond of Instagram.com Server."
+   },
+   "write_caption": {
+      "message": "Write a caption... (max 2000 characters)"
+   }
+}

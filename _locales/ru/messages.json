@@ -1,0 +1,170 @@
+{
+   "are_you_sure_delete": {
+      "message": "Вы уверены, что хотите удалить публикацию?"
+   },
+   "broadcast_finished": {
+      "message": "Прямой эфир завершен"
+   },
+   "btn_cancel": {
+      "message": "Отмена"
+   },
+   "btn_continue": {
+      "message": "Продолжить"
+   },
+   "btn_enough": {
+      "message": "Остановить и сохранить"
+   },
+   "by_default_100": {
+      "message": "По умолчанию 100%"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "comments_is_muted": {
+      "message": "Комментарии выключены"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "delete_error": {
+      "message": "Ошибка удаления"
+   },
+   "disconnect_notification": {
+      "message": "Перегрузите страницу для продолжения работы с расширением"
+   },
+   "do_not_show_again": {
+      "message": "Больше не показывать"
+   },
+   "download": {
+      "message": "Скачать"
+   },
+   "download_all": {
+      "message": "Скачать все"
+   },
+   "download_more_100_warning": {
+      "message": "Загрузка большого количества файлов займет много времени, и может завершиться неудачей"
+   },
+   "download_zip": {
+      "message": "Скачивание файлов с сервера Instagram™"
+   },
+   "error403_possible_reasons": {
+      "message": "Возможные причины"
+   },
+   "error403_reason_1": {
+      "message": "Сервер Instagram ответил \"Ошибка авторизации\". Попробуйте перелогиниится в Instagram и повторить попытку."
+   },
+   "error403_reason_2": {
+      "message": "Конфликт с другим расширением. Попробуйте отключить другие расширения и повторить попытку."
+   },
+   "errorZip": {
+      "message": "Ошибка получения zip файла. Скорее всего, вы попытались скачать слишком много файлов для вашей скорости интернет соединения или мощности компьютера. Попробуйте уменьшить количество файлов для загрузки или просто повторите попытку позже"
+   },
+   "error_dl_msg": {
+      "message": "Ошибка скачивания"
+   },
+   "error_network": {
+      "message": "Ошибка сети"
+   },
+   "error_reason_xz": {
+      "message": "Попробуйте еще раз"
+   },
+   "desc": {
+      "message": "Скачать фото и видео с Instagram™ быстро и легко! Поддерживается массовое скачивание в один клик!"
+   },
+   "name": {
+      "message": "Скачать фото и видео с Инстаграм"
+   },
+   "files_found_on_page": {
+      "message": "На этой странице найдено публикаций"
+   },
+   "for_previous_days": {
+      "message": "За последние дни"
+   },
+   "from": {
+      "message": "с"
+   },
+   "go_to_instagram": {
+      "message": "Перейти на Instagram.com"
+   },
+   "hide_live_comments": {
+      "message": "Скрыть комментарии"
+   },
+   "lang": {
+      "message": "ru"
+   },
+   "loading": {
+      "message": "Загрузка"
+   },
+   "next": {
+      "message": "Далее"
+   },
+   "no": {
+      "message": "Нет"
+   },
+   "ok": {
+      "message": "Да"
+   },
+   "only_photo": {
+      "message": "Только фото"
+   },
+   "only_video": {
+      "message": "Только видео"
+   },
+   "open_new_tab_for_surfing": {
+      "message": "Открыть instagram.com в новой вкладке пока идет скачивание"
+   },
+   "parallel_all_download_denied": {
+      "message": "Дождитесь завершения скачивания в другой вкладке"
+   },
+   "pleaseWait": {
+      "message": "Пожалуйста, подождите"
+   },
+   "prepare_zip_links": {
+      "message": "Подготовка файлов"
+   },
+   "reloadPage": {
+      "message": "Перегрузите страницу для активации расширения"
+   },
+   "reloadPageLong": {
+      "message": "После установки перегрузите страницу с Instagram™"
+   },
+   "reloadPageShort": {
+      "message": "Перегрузить страницу"
+   },
+   "remind_later": {
+      "message": "Напомнить позже"
+   },
+   "report_a_problem": {
+      "message": "Отправить отзыв"
+   },
+   "retry_requests": {
+      "message": "Повторная попытка получения файлов"
+   },
+   "scroll_page_for_download_more": {
+      "message": "Чтобы загрузить больше файлов прокрутите страницу вниз"
+   },
+   "send": {
+      "message": "Отправить"
+   },
+   "set_range": {
+      "message": "Укажите диапазон"
+   },
+   "show_live_comments": {
+      "message": "Показать комментарии"
+   },
+   "story_is_not_available": {
+      "message": "История более недоступна"
+   },
+   "tab_is_not_complete": {
+      "message": "Загрузка текущей вкладки не завершена"
+   },
+   "to": {
+      "message": "по"
+   },
+   "waiting_response_for_virtual_scroll": {
+      "message": "Не волнуйтесь. Ожидаем ответ от сервера instagram.com"
+   },
+   "write_caption": {
+      "message": "Добавить подпись... (максимум 2000 символов)"
+   }
+}
